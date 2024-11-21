@@ -1,4 +1,4 @@
-name: Run shell commands
+name: Run shell commands 2
 on: [push]
 
 jobs:
