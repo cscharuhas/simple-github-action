@@ -1,4 +1,4 @@
-name: OWASP ZAP Ingration with Githun Actions attempt 3
+name: OWASP ZAP Ingration with Githun Actions new attempt 1
 
 on: [push]
 
